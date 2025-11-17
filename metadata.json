@@ -1,0 +1,7 @@
+{
+  "name": "EstateCRM Pro2.0",
+  "description": "A comprehensive Real Estate Data Management CRM with dual-role access for Admins and Employees. Features lead assignment, calling workflows, performance tracking, and AI-powered script generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
